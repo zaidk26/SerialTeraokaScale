@@ -1,0 +1,6 @@
+C:\Apps-Windows\SerialTeraokaScale\SerialTeraokaScale\bin\Debug\SerialTeraokaScale.exe.config
+C:\Apps-Windows\SerialTeraokaScale\SerialTeraokaScale\bin\Debug\SerialTeraokaScale.exe
+C:\Apps-Windows\SerialTeraokaScale\SerialTeraokaScale\bin\Debug\SerialTeraokaScale.pdb
+C:\Apps-Windows\SerialTeraokaScale\SerialTeraokaScale\obj\Debug\SerialTeraokaScale.csprojAssemblyReference.cache
+C:\Apps-Windows\SerialTeraokaScale\SerialTeraokaScale\obj\Debug\SerialTeraokaScale.exe
+C:\Apps-Windows\SerialTeraokaScale\SerialTeraokaScale\obj\Debug\SerialTeraokaScale.pdb
